@@ -33,7 +33,12 @@ section p {
   line-height: 1.3em;
   color: green; }
 section p.chorus {
-  padding-left: 70px;
- }
+  padding-left: 70px; }
 
-/*# sourceMappingURL=style.css.map */
+.class1 {
+  color: red;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+/*# sourceMappingURL=style.prefixed.css.map */
