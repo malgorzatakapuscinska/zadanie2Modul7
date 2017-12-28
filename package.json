@@ -1,0 +1,23 @@
+{
+  "name": "zadanie2Modul7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malgorzatakapuscinska/zadanie2Modul7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malgorzatakapuscinska/zadanie2Modul7/issues"
+  },
+  "homepage": "https://github.com/malgorzatakapuscinska/zadanie2Modul7#readme",
+  "dependencies": {
+    "browser-sync": "^2.22.0"
+  }
+}
