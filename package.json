@@ -1,7 +1,7 @@
 {
-  "name": "zadanie2Modul7",
+  "name": "zadanie2modul7",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://malgorzatakapuscinska.github.io/zadanie2Modul7/",
   "main": "index.js",
   "dependencies": {
     "autoprefixer-cli": "^1.0.0",
@@ -10,7 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "autoprefixer": "autoprefixer-cli"
   },
   "repository": {
     "type": "git",
